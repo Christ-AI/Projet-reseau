@@ -40,7 +40,7 @@ Ce projet personnel vise à maîtriser l’utilisation de **Cisco Packet Tracer*
 
 ## 📂 Contenu du dépôt
 
-- `Lab0_PacketTracer.pkt` : fichier Cisco Packet Tracer contenant la maquette complète et les configurations.
+- `Lab2_PacketTracer.pkt` : fichier Cisco Packet Tracer contenant la maquette complète et les configurations.
 - `README.md` : ce document explicatif.
 
 ---
