@@ -1,0 +1,8 @@
+﻿# OS / IDE
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Exports temporaires
+*.tmp
+*.bak
